@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    gap: 70px;
+}
+.remain-comp{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+

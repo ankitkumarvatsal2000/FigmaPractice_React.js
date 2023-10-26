@@ -1,0 +1,60 @@
+.payment{
+    width: 640px;
+    height: 150px;
+    border-radius: 8px;
+opacity: 0.8;
+background: var(--auxiliary-colors-pw-success-10, #DFF1E4);
+text-align: center;
+border-radius: 10px;
+margin-left: 20px;
+
+}
+.payment h3{
+    padding-top: 25px;
+    color: green;
+}
+.second-p{
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.hr{
+    width: 640px;
+    position: absolute;
+    color: rgb(209, 199, 199);
+    margin-left: 15px;
+}
+.pay-button{
+    width: 640px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
+    
+    
+}
+.pay-button button{
+    border-radius: 6px;
+    border: 1px solid var(--stroke-stroke-medium, #B7B7B7);
+    background: var(--Color, #FFF);
+    box-shadow: 0px 0px 0px 0px rgba(90, 75, 218, 0.15) inset;
+    height: 30px;
+    width: 20%;
+    font-size: x-small;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+    
+    
+}
+.all-comp{
+    width: 700px;
+    height: 230px;
+    border-radius: 8px;
+background: var(--Color, #FFF);
+box-shadow: 0px 0px 0px 3px rgb(241, 235, 235);
+
+}
